@@ -1,0 +1,30 @@
+.container{
+    min-height:500px;
+    
+    
+}
+.container1{
+    width:300px;
+    min-height:500px;
+    border: 20px;
+    border-color:rgb(205, 104, 104);
+    border-style:solid;
+}
+.input{
+    width:250px;
+}
+body{
+    text-align: center;
+}
+.container3{
+    width:300px;
+}
+.message{
+    max-width:200px;
+    min-width:75px;
+    height:auto;
+    border:3px ;
+    border-color:brown;
+    border-style:solid;
+    border-radius:10px;
+}
